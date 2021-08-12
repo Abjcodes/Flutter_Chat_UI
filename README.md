@@ -1,16 +1,7 @@
-# chat_app
+# Chat App UI
 
-A new Flutter application.
+A simple chat application UI made using flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![web_1280___1](https://user-images.githubusercontent.com/42151354/129224598-37cc13a3-c390-4575-bd66-ca70f0d16f00.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
